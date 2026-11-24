@@ -56,12 +56,12 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<h4><a href="https://github.com/elrazaq/meet-ai">MeetAI — Intelligent Meeting Intelligence</a></h4>
-<p>Enterprise meeting recording platform combining an offline-first Android client with a high-throughput FastAPI backend. Leverages Google Gemini Multimodal Audio to generate 4 distinct structured executive documents with 100% speaker consistency.</p>
+<h4><a href="https://github.com/elrazaq/SakuGuard">SakuGuard — Personal Finance & Budgeting</a></h4>
+<p>Offline-first, privacy-first Android personal finance, budgeting, and savings goal manager with zero internet permission. Features multi-wallet tracking, protected savings goals, threshold alerts, and interactive financial reports.</p>
 <p>
 <img src="https://img.shields.io/badge/Kotlin-Android-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-Python-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini_AI-Multimodal-4285F4?style=flat-square&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Jetpack_Compose-Material_3-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
+<img src="https://img.shields.io/badge/Room-Hilt-3DDC84?style=flat-square&logo=android&logoColor=white" />
 </p>
 </td>
 <td width="50%" valign="top">
